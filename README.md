@@ -20,9 +20,10 @@ This C++ library provides a `BigInteger` class that supports operations with int
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/BigInteger.git
-   cd BigInteger
+```
+bash
+git clone https://github.com/yourusername/BigInteger.git
+cd BigInteger
 
 ```
 #include <iostream>
@@ -41,5 +42,6 @@ int main() {
     std::cout << "Product: " << prod << std::endl;
 
     return 0;
-```
+
 }
+```
