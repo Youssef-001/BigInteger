@@ -20,7 +20,7 @@ This C++ library provides a `BigInteger` class that supports operations with int
 
 1. Clone the repository:
 
-```
+
 bash
 git clone https://github.com/yourusername/BigInteger.git
 cd BigInteger
