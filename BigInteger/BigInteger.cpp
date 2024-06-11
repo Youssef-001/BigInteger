@@ -29,23 +29,6 @@ class LongInt
 			secondStr--;
 		}
 
-		// 736
-		// 469
-		//  1205
-		//   
-		//If the two numbers ended
-		/*
-		123456
-		   546
-		123002
-
-
-		123
-		  1
-		124002
-		*/
-
-
 		if (firstStr != secondStr)
 		{
 			if (!reminder)
